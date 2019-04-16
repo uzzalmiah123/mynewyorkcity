@@ -1,0 +1,33 @@
+
+header{
+    height:400px;
+    background:url(images/collage2.jpg);
+}
+header nav ul a {
+    
+    float:left;
+    line-height:62px;
+        padding:0 18px;
+    font-weight:bold;
+    text-decoration:none;
+    color:#ffffff;
+}
+html{
+    background-color:#CCFFE5;
+    
+}
+h1{
+    color:deeppink;
+    font-size:50px;
+}
+body{
+    margin-left:50px
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 60px
+}
+p{
+   font-size: 18px 
+}
